@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.470b991e.css",
+    "main.js": "/static/js/main.d201fde7.js",
+    "static/media/Netflix.PNG": "/static/media/Netflix.31b874700a72ee9f9bcc.PNG",
+    "static/media/Dental-Dummy.PNG": "/static/media/Dental-Dummy.c09b80a0af7c9278a65d.PNG",
+    "static/media/Custom-Website.PNG": "/static/media/Custom-Website.70b3077047b27a35f431.PNG",
+    "static/media/Js-Form.PNG": "/static/media/Js-Form.b927e1c4b0a78e70676e.PNG",
+    "static/media/Tayyab_Junaid_CV.jpg": "/static/media/Tayyab_Junaid_CV.355d03b3a3e9cf792b88.jpg",
+    "static/media/home-main.svg": "/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/Expense-Tracker.PNG": "/static/media/Expense-Tracker.61c5b6d68ebdb049966f.PNG",
+    "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/avatar.svg": "/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
+    "static/media/To-Do-List.PNG": "/static/media/To-Do-List.b78dd39446c40d07aa99.PNG",
+    "index.html": "/index.html",
+    "main.470b991e.css.map": "/static/css/main.470b991e.css.map",
+    "main.d201fde7.js.map": "/static/js/main.d201fde7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.470b991e.css",
+    "static/js/main.d201fde7.js"
+  ]
+}
