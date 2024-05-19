@@ -11,7 +11,10 @@ const Footer = () => {
       <div className="flex justify-center items-center">
         <ul className="flex gap-5">
           <li className="rounded-full p-2  hover:shadow-[0_0_10px_#87209e,0_0_10px_#87209e] hover:bg-black">
-            <a href="" className="text-xl text-[rgb(205,95,248)]">
+            <a
+              href="https://github.com/TayyabJunaidOfficial"
+              className="text-xl text-[rgb(205,95,248)]"
+            >
               <FaGithub />
             </a>
           </li>
@@ -21,7 +24,10 @@ const Footer = () => {
             </a>
           </li>
           <li className="rounded-full p-2 hover:shadow-[0_0_10px_#87209e,0_0_10px_#87209e] hover:bg-black">
-            <a href="" className="text-xl text-[rgb(205,95,248)]">
+            <a
+              href="https://mail.google.com/tayyabjunaidofficial"
+              className="text-xl text-[rgb(205,95,248)]"
+            >
               <SiGmail />
             </a>
           </li>
