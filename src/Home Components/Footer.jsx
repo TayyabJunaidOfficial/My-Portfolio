@@ -19,13 +19,16 @@ const Footer = () => {
             </a>
           </li>
           <li className="rounded-full p-2 hover:shadow-[0_0_10px_#87209e,0_0_10px_#87209e] hover:bg-black">
-            <a href="" className="text-xl text-[rgb(205,95,248)]">
+            <a
+              href="https://www.linkedin.com/in/tayyab-junaid-703aa32a4/"
+              className="text-xl text-[rgb(205,95,248)]"
+            >
               <TiSocialLinkedinCircular />
             </a>
           </li>
           <li className="rounded-full p-2 hover:shadow-[0_0_10px_#87209e,0_0_10px_#87209e] hover:bg-black">
             <a
-              href="https://mail.google.com/tayyabjunaidofficial"
+              href="mailto:tayyabjunaidofficial@gmail.com"
               className="text-xl text-[rgb(205,95,248)]"
             >
               <SiGmail />

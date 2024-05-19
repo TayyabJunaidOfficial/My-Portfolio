@@ -16,17 +16,26 @@ const Find_Me = () => {
       <div className="flex justify-center items-center">
         <ul className="flex gap-5">
           <li className="bg-white rounded-full p-2  hover:shadow-[0_0_10px_#87209e,0_0_10px_#87209e] hover:bg-black">
-            <a href="" className="text-xl text-[rgb(205,95,248)]">
+            <a
+              href="https://github.com/TayyabJunaidOfficial"
+              className="text-xl text-[rgb(205,95,248)]"
+            >
               <FaGithub />
             </a>
           </li>
           <li className="bg-white rounded-full p-2 hover:shadow-[0_0_10px_#87209e,0_0_10px_#87209e] hover:bg-black">
-            <a href="" className="text-xl text-[rgb(205,95,248)]">
+            <a
+              href="https://www.linkedin.com/in/tayyab-junaid-703aa32a4/"
+              className="text-xl text-[rgb(205,95,248)]"
+            >
               <TiSocialLinkedinCircular />
             </a>
           </li>
           <li className="bg-white rounded-full p-2 hover:shadow-[0_0_10px_#87209e,0_0_10px_#87209e] hover:bg-black">
-            <a href="" className="text-xl text-[rgb(205,95,248)]">
+            <a
+              href="mailto:tayyabjunaidofficial@gmail.com"
+              className="text-xl text-[rgb(205,95,248)]"
+            >
               <SiGmail />
             </a>
           </li>
